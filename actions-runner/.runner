@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "mystery",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/e7DaNMkaiViYNQf1usouZz7KPnRz1SMvCnBqEfNBwFeYlvUDb4",
+  "gitHubUrl": "https://github.com/arbabhaider649/Linux-System-Programming",
+  "workFolder": "_work"
+}
